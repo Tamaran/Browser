@@ -1,0 +1,6 @@
+*.exe
+*.ipch
+*log
+*.pdb
+*/Debug/
+Debug/
